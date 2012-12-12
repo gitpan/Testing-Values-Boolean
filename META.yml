@@ -1,0 +1,21 @@
+---
+abstract: 'True and false module for quick and easy booleans.'
+author:
+  - 'Alexej G. Magura <agm2819@gmail.com>'
+build_requires:
+  ExtUtils::MakeMaker: 0
+configure_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120921'
+license: bsd
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Testing-Values-Boolean
+no_index:
+  directory:
+    - t
+    - inc
+requires: {}
+version: v1.2.6

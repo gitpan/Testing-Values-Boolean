@@ -1,0 +1,15 @@
+Revision history for Perl extension True.
+
+0.01  Tue Dec 11 16:23:15 2012
+	- original version; created by h2xs 1.23 with options
+		-AX -n True
+0.1.2.2 Tue Dec 11 16:35:?? 2012
+	+ added full blown support for True(), true(), false(), and False().  
+0.1.2.3 Wed Dec 12 12:50:42 am
+	+ changed module name so that it is more descriptive of what this module actually does. 
+0.1.2.5 Wed Dec 12 12:55:20 am
+	+ started working on the POD documentation.
+1.2.5   Wed Dec 12 1:55 am
+        + changed to a more CPAN-like versioning scheme.  
+1.2.6   Wed Dec 12 1:58 am
+	+ started working on fixing the t/test.t file.  
